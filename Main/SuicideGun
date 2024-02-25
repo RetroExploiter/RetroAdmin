@@ -1,4 +1,3 @@
---SUICIDE GUN REBORN BY DMS
 o1 = Instance.new("Tool")
 o2 = Instance.new("Part")
 o3 = Instance.new("SpecialMesh")
