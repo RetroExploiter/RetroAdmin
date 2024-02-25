@@ -1,9 +1,9 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
 			Title = "RetroAdmin";
-			Text = "Loading";
+			Text = "Loading...";
 			})
 prefix = "."
-wait(0.5)
+wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification", {
 			Title = "RetroAdmin";
 			Text = "Loaded!";
